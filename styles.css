@@ -1,7 +1,3 @@
-/* =========================================================
-   styles.css — Three.js Ring UI (<= 300 líneas)
-   Objetivo: canvas fullscreen + panel glass + botones + responsive
-   ========================================================= */
 
 /* =========================================================
    ÍNDICE (qué hay en cada parte)
@@ -307,3 +303,4 @@ code{
   border-radius:999px;
   border:2px solid rgba(0,0,0,.12);
 }
+
